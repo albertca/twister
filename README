@@ -1,0 +1,13 @@
+[![asciicast](https://asciinema.org/a/HHWdrYa8rM1WIIrzyGmUdus1H.png)](https://asciinema.org/a/HHWdrYa8rM1WIIrzyGmUdus1H)
+
+Twister is a simple python application that allows you to play the infamous
+Twister game [1].
+
+You just need to paint some tails in the floor and this small application will
+act as the spinner.
+
+To use it simply call the script and pass the names of the players as arguments.
+
+Have a lot of fun!
+
+[1] https://en.wikipedia.org/wiki/Twister_(game)
