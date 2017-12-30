@@ -16,7 +16,7 @@ args = {}
 
 dist = setup(
     name='twister-game',
-    version='1.0',
+    version='2.0',
     description='Twister',
     long_description=read('README'),
     author='Albert Cervera i Areny',
